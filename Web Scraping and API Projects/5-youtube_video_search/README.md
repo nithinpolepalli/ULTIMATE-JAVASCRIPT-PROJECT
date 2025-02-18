@@ -10,7 +10,7 @@ A brief description of the youtube video search project.
 - Feature 2
 - Feature 3
 
-## Technologies Used
+## Technologies Used in the project
 
 - JavaScript
 - HTML
